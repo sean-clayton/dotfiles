@@ -2,6 +2,16 @@
 
 These are my dotfiles (ex. .atom/packages, .jshintrc, .cshintrc, etc). They are free to and use and share. Enjoy :)
 
+### Usage
+
+To ***properly*** clone this repo, run the following command:
+
+```bash
+git clone --recursive git@github.com:sean-clayton/dotfiles.git
+```
+
+Please note the `--recursive` flag, as it will download all submodules of this repo as well (I divided my dotfiles into submodules and independent repos incase people wanted just one or two of my dotfiles).
+
 ### LICENSE (ISC)
 
 Copyright (c) 2015, Sean-Patrick Ortencio Clayton sean@seanclayton.me
