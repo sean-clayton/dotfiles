@@ -1,0 +1,3 @@
+[submodule ".atom/packages"]
+	path = .atom/packages
+	url = https://github.com/sean-clayton/atom-packages
