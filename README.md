@@ -1,20 +1,11 @@
 # dotfiles
 
-These are my dotfiles (ex. .atom/packages, .jshintrc, .cshintrc, etc). They are free to and use and share. Enjoy :)
+These are my dotfiles. They are free (as in speech). It should be self-explanatory
+what these do. If not, create an [issue]. Enjoy :heart:
 
-### Usage
+## LICENSE (ISC)
 
-To ***properly*** clone this repo, run the following command:
-
-```bash
-git clone --recursive git@github.com:sean-clayton/dotfiles.git
-```
-
-Please note the `--recursive` flag, as it will download all submodules of this repo as well (I divided my dotfiles into submodules and independent repos incase people wanted just one or two of my dotfiles).
-
-### LICENSE (ISC)
-
-Copyright (c) 2015, Sean-Patrick Ortencio Clayton sean@seanclayton.me
+Copyright (c) 2015, Sean-Patrick Ortencio Clayton <sean@seanclayton.me>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -27,3 +18,5 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+[issue]: /issues/new
