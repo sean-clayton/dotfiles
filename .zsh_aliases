@@ -1,1 +1,6 @@
-/Users/sean/.zsh_aliases
+alias e="ember"
+alias sshup="eval $(ssh-agent -s)"
+alias sshpass="ssh-add -K ~/.ssh/st_rsa"
+alias zomg="git add -A && git stash && git stash drop"
+alias g="git"
+alias a="atom"
