@@ -1,6 +1,0 @@
-[submodule ".atom"]
-	path = .atom
-	url = https://github.com/sean-clayton/atom-dotfiles
-[submodule ".weechat"]
-	path = .weechat
-	url = https://github.com/sean-clayton/weechat-dotfiles
