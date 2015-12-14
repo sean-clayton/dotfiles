@@ -4,3 +4,4 @@ alias sshpass="ssh-add -K ~/.ssh/st_rsa"
 alias zomg="git add -A && git stash && git stash drop"
 alias g="git"
 alias a="atom"
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
