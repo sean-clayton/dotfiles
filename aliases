@@ -1,0 +1,21 @@
+source ~/dotfiles/git
+
+if not set -q abbrs_initialized
+  alias l='ls'
+  alias L='ls -lah'
+  alias c='code'
+  alias ga='hub add'
+  alias gA='hub add -A'
+  alias zomg='hub add -A && hub stash && hub stash drop'
+  alias y='yarn'
+  alias dc='docker-compose'
+  alias uuid='uuidgen | tr "[:upper:]" "[:lower:]"'
+  alias install='brew install'
+  alias gpr='hub pull-request'
+  alias m='mix'
+  alias cat='bat'
+  alias fuck='sudo (history -p \!\!)'
+end
+
+
+
